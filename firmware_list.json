@@ -6,19 +6,19 @@
       "versions": [
         {
           "version": "2.0.2",
-          "url": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/pro_c3_v2.0.2.bin",
+          "url": "https://raw.githubusercontent.com/Twinstar-support/LightControl_Firmware/main/pro_c3_v2.0.2.bin",
           "release_date": "2026-02-24",
           "notes": "pwm freq 13k -> 23k"
         },
         {
           "version": "2.0.1",
-          "url": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/pro_c3_v2.0.1.bin",
+          "url": "https://raw.githubusercontent.com/Twinstar-support/LightControl_Firmware/main/pro_c3_v2.0.1.bin",
           "release_date": "2026-02-11",
           "notes": "pwm freq 800 -> 13k"
         },
         {
           "version": "2.0.0",
-          "url": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/pro_c3_v2.0.0.bin",
+          "url": "https://raw.githubusercontent.com/Twinstar-support/LightControl_Firmware/main/pro_c3_v2.0.0.bin",
           "release_date": "2026-01-15",
           "notes": "dual timer, light planer 60 day, ota"
         }
@@ -30,19 +30,19 @@
       "versions": [
         {
           "version": "2.0.2",
-          "url": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/pro_c2_v2.0.2.bin",
+          "url": "https://raw.githubusercontent.com/Twinstar-support/LightControl_Firmware/main/pro_c2_v2.0.2.bin",
           "release_date": "2026-02-24",
           "notes": "pwm freq 13k -> 23k"
         },
         {
           "version": "2.0.1",
-          "url": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/pro_c2_v2.0.1.bin",
+          "url": "https://raw.githubusercontent.com/Twinstar-support/LightControl_Firmware/main/pro_c2_v2.0.1.bin",
           "release_date": "2026-02-11",
           "notes": "pwm freq 800 -> 13k"
         },
         {
           "version": "2.0.0",
-          "url": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/pro_c2_v2.0.0.bin",
+          "url": "https://raw.githubusercontent.com/Twinstar-support/LightControl_Firmware/main/pro_c2_v2.0.0.bin",
           "release_date": "2026-01-15",
           "notes": "dual timer, light planer 60 day, ota"
         }
@@ -54,19 +54,19 @@
       "versions": [
         {
           "version": "2.0.2",
-          "url": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/std_c3_v2.0.2.bin",
+          "url": "https://raw.githubusercontent.com/Twinstar-support/LightControl_Firmware/main/std_c3_v2.0.2.bin",
           "release_date": "2026-02-24",
           "notes": "pwm freq 13k -> 23k"
         },
         {
           "version": "2.0.1",
-          "url": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/std_c3_v2.0.1.bin",
+          "url": "https://raw.githubusercontent.com/Twinstar-support/LightControl_Firmware/main/std_c3_v2.0.1.bin",
           "release_date": "2026-02-11",
           "notes": "pwm freq 800 -> 13k"
         },
         {
           "version": "2.0.0",
-          "url": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/std_c3_v2.0.0.bin",
+          "url": "https://raw.githubusercontent.com/Twinstar-support/LightControl_Firmware/main/std_c3_v2.0.0.bin",
           "release_date": "2026-01-15",
           "notes": "dual timer, light planer 60 day, ota"
         }
@@ -78,19 +78,19 @@
       "versions": [
         {
           "version": "2.0.2",
-          "url": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/std_c2_v2.0.2.bin",
+          "url": "https://raw.githubusercontent.com/Twinstar-support/LightControl_Firmware/main/std_c2_v2.0.2.bin",
           "release_date": "2026-02-24",
           "notes": "pwm freq 13k -> 23k"
         },
         {
           "version": "2.0.1",
-          "url": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/std_c2_v2.0.1.bin",
+          "url": "https://raw.githubusercontent.com/Twinstar-support/LightControl_Firmware/main/std_c2_v2.0.1.bin",
           "release_date": "2026-02-11",
           "notes": "pwm freq 800 -> 13k"
         },
         {
           "version": "2.0.0",
-          "url": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/std_c2_v2.0.0.bin",
+          "url": "https://raw.githubusercontent.com/Twinstar-support/LightControl_Firmware/main/std_c2_v2.0.0.bin",
           "release_date": "2026-01-15",
           "notes": "dual timer, light planer 60 day, ota"
         }
@@ -102,13 +102,13 @@
       "versions": [
         {
           "version": "2.1.1",
-          "url": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/pro_btn_c3_v2.1.1.bin",
+          "url": "https://raw.githubusercontent.com/Twinstar-support/LightControl_Firmware/main/pro_btn_c3_v2.1.1.bin",
           "release_date": "2026-02-27",
           "notes": "Button controller update"
         },
         {
           "version": "2.1.0",
-          "url": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/pro_btn_c3_v2.1.0.bin",
+          "url": "https://raw.githubusercontent.com/Twinstar-support/LightControl_Firmware/main/pro_btn_c3_v2.1.0.bin",
           "release_date": "2026-02-20",
           "notes": "Initial button controller release"
         }
@@ -120,13 +120,13 @@
       "versions": [
         {
           "version": "2.1.1",
-          "url": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/pro_btn_c2_v2.1.1.bin",
+          "url": "https://raw.githubusercontent.com/Twinstar-support/LightControl_Firmware/main/pro_btn_c2_v2.1.1.bin",
           "release_date": "2026-02-27",
           "notes": "Button controller update"
         },
         {
           "version": "2.1.0",
-          "url": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/pro_btn_c2_v2.1.0.bin",
+          "url": "https://raw.githubusercontent.com/Twinstar-support/LightControl_Firmware/main/pro_btn_c2_v2.1.0.bin",
           "release_date": "2026-02-20",
           "notes": "Initial button controller release"
         }
