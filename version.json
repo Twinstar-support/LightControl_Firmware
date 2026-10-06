@@ -1,9 +1,9 @@
 {
-  "latest_version": "3.0.1",
+  "latest_version": "3.0.2",
   "firmware": {
     "pro": {
       "c3": "https://raw.githubusercontent.com/Twinstar-support/LightControl_Firmware/main/pro_c3_v3.0.1.bin",
-      "c2": "https://raw.githubusercontent.com/Twinstar-support/LightControl_Firmware/main/pro_c2_v3.0.1.bin"
+      "c2": "https://raw.githubusercontent.com/Twinstar-support/LightControl_Firmware/main/pro_c2_v3.0.2.bin"
     },
     "standard": {
       "c3": "https://raw.githubusercontent.com/Twinstar-support/LightControl_Firmware/main/std_c3_v3.0.2.bin",
