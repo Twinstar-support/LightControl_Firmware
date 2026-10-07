@@ -3,11 +3,19 @@
   "firmware": {
     "pro": {
       "c3": "https://raw.githubusercontent.com/Twinstar-support/LightControl_Firmware/main/pro_c3_v3.0.1.bin",
-      "c2": "https://raw.githubusercontent.com/Twinstar-support/LightControl_Firmware/main/pro_c2_v3.0.2.bin"
+      "c2": "https://raw.githubusercontent.com/Twinstar-support/LightControl_Firmware/main/pro_c2_v3.0.2.bin",
+      "c3_version": "3.0.1",
+      "c2_version": "3.0.2",
+      "c3_flag": false,
+      "c2_flag": false
     },
     "standard": {
       "c3": "https://raw.githubusercontent.com/Twinstar-support/LightControl_Firmware/main/std_c3_v3.0.2.bin",
-      "c2": "https://raw.githubusercontent.com/Twinstar-support/LightControl_Firmware/main/std_c2_v3.0.1.bin"
+      "c2": "https://raw.githubusercontent.com/Twinstar-support/LightControl_Firmware/main/std_c2_v3.0.1.bin",
+      "c3_version": "3.0.2",
+      "c2_version": "3.0.1",
+      "c3_flag": false,
+      "c2_flag": false
     }
   }
 }
