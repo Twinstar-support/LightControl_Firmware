@@ -7,7 +7,7 @@
       "c3_version": "3.0.1",
       "c2_version": "3.0.2",
       "c3_flag": false,
-      "c2_flag": false
+      "c2_flag": true
     },
     "standard": {
       "c3": "https://raw.githubusercontent.com/Twinstar-support/LightControl_Firmware/main/std_c3_v3.0.2.bin",
